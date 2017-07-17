@@ -1,0 +1,1 @@
+#!/usr/bin/env python3# -*- coding: utf-8 -*-"""Created on 2017/6/2 下午4:31@author: zhechengma"""import time""""setting file is useing for defining the every items in each object of our ETL"""#setting the items of getting databaseHOST='192.168.32.48'PORT=3306DB='network'PW='123456'USER='root'CHARSET='utf8'#the persent time and ending time

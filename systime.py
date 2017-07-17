@@ -1,0 +1,1 @@
+#!/usr/bin/env python3# -*- coding: utf-8 -*-"""Created on 2017/6/6 下午4:59@author: zhechengma"""import timesystime=time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()-48*60*60))
